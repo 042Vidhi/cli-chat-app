@@ -1,6 +1,3 @@
-Sure, here's an updated `README.md` file without Docker instructions:
-
-```markdown
 # CLI Chat Application
 
 This is a simple CLI-based chat application that allows users to create chat rooms and join existing ones. The application is built using Node.js, Express, and Socket.io.
